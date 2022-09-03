@@ -251,4 +251,3 @@ Singleton pattern example.
 ```
 
 
-
