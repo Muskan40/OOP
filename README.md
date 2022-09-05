@@ -63,8 +63,8 @@ SNo | Topic | Link | Date Completed |
 2 | Parameterised Constructor | - | not done |
 3 | Copy Constructor : Deep vs shallow copy | [view](https://www.geeksforgeeks.org/difference-between-shallow-and-deep-copy-of-a-class/) | not done |
 4 | Copy Constructor : copy ctor vs assignment | [view](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/) | not done |
-5 | Virtual Constructor | [view](https://www.tutorialspoint.com/virtual-constructor-in-cplusplus) | not done |
-6 | Virtual Copy Constructor | [view](https://www.tutorialspoint.com/virtual-copy-constructor-in-cplusplus) | not done |
+5 | Virtual Constructor | [view](https://www.tutorialspoint.com/virtual-constructor-in-cplusplus) | not done(r) |
+6 | Virtual Copy Constructor | [view](https://www.tutorialspoint.com/virtual-copy-constructor-in-cplusplus) | not done(r) |
 7 | Constructor vs member functions | [view](https://iq.opengenus.org/constructor-cpp/) | not done |
 8 | Constructor Overloading | [view](https://stackoverflow.com/questions/37517522/why-would-you-need-to-use-more-than-one-constructor) | not done |
 
@@ -74,7 +74,7 @@ SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
 1 | Private Destructor | [view](https://www.geeksforgeeks.org/private-destructor/) | not done |
 2 | Virtual Destructor | [view](https://www.geeksforgeeks.org/virtual-destructor/) | not done |
-3 | Pure Virtual Destructor | [view](https://www.geeksforgeeks.org/pure-virtual-destructor-c/) | not done |
+3 | Pure Virtual Destructor | [view](https://www.geeksforgeeks.org/pure-virtual-destructor-c/) | not done(r) |
 4 | Destructor vs member functions | [view](https://www.tutorialspoint.com/destructors-in-cplusplus) | not done |
 5 | Multiple Destructors in one class ? | [view](https://stackoverflow.com/questions/21934810/why-a-class-has-only-one-destructor/21934951) | not done |
 6 | When to write user defined Destructor ? | [view](https://stackoverflow.com/questions/22491174/when-do-we-need-to-define-destructors) | not done |
